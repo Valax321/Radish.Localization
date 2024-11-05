@@ -1,4 +1,4 @@
-# Radish.Core
+# Radish.Localization
 
 Localization system for Radish games.
 
