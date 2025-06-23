@@ -16,7 +16,7 @@ namespace Radish.Localization
         private readonly Dictionary<int, CultureStringTable> m_StringTableLookup = new();
 
 #if UNITY_EDITOR
-        internal static LocalizedStringTable Build(
+        public static LocalizedStringTable Build(
             Func<CultureInfo> getNativeCulture,
             Func<IReadOnlyList<Tuple<CultureInfo, string, string>>> getStrings)
         {
