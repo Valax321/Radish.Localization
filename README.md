@@ -13,3 +13,7 @@ git submodule add https://github.com/Valax321/Radish.Localization.git com.radish
 - Radish.Core
 - ZString
 - Odin Inspector (sorry, I use it in my projects and will not build editor tools without it)
+
+## Attributions
+
+<a href="https://www.flaticon.com/free-icons/library" title="library icons">Library icons created by popo2021 - Flaticon</a>
